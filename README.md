@@ -26,7 +26,7 @@ This Tableau dashboard provides a comprehensive analysis of Superstore Sales & P
    Shows sales & profit by customer type (Consumer, Corporate, Home Office) to improve targeting strategies.
 
 ## Dashboard Preview
-![Dashboard 1](screenshots/Dashboard 1.png)
+![Dashboard 1](Dashboard 1.png)
 
 ## How to Use This Dashboard
 1. Download the Tableau Packaged Workbook file:  
